@@ -57,7 +57,7 @@ class App extends Component {
 
               <br/>
 
-              <label htmlFor="gs1">Global setting 1:</label>
+              <label htmlFor="gs1">Global setting 2:</label>
               <Text field="gs2" id="gs2"/>
 
               <br/>
@@ -111,7 +111,7 @@ class App extends Component {
 
               <br/>
 
-              <label htmlFor="bgs1">Global setting 1:</label>
+              <label htmlFor="bgs1">Global setting 2:</label>
               <Text field="gs2" id="bgs2"/>
 
               <br/>
